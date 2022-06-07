@@ -163,7 +163,6 @@ plt.show()
 ![OUTPUT](ah17.png)
 ![OUTPUT](ah18.png)
 ![OUTPUT](ah19.png)
-![OUTPUT](ah20.png)
 # Result:
 Thus, Data Visualization is applied on the complex dataset using Seaborn and Matplotlib libraries successfully and the data is saved to a file.
 
